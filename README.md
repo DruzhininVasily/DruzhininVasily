@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- education: I have a higher education in industrial automation
+- additional education: At the moment, I am studying at the Neural Network Developer course at The Founder Academy
+- Work experience: I have implemented several personal projects that work and are used in production. You can see them on my GitHub page
+- About me: I like to automate various tasks. Now I am on the way to study the art of creating neural networks.
+- Skills: python(middle level), django(elementary), flask(elementary), linux(elementary)
 <!--
 **DruzhininVasily/DruzhininVasily** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
